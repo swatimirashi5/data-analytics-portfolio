@@ -28,7 +28,7 @@ Here, I turn raw data into meaningful insights and interactive dashboards using 
 
 ## 📁 Projects
 
-# 🍕 Pizza Sales Analysis 
+## 1. Pizza Sales Analysis 
 
 **Goal:** Identify peak hours, pizza demand, top-selling items, average order value, and seating utilization to optimize operations and revenue.
 **Tech Stack:** SQL, Excel, Data Analysis
@@ -41,7 +41,7 @@ Here, I turn raw data into meaningful insights and interactive dashboards using 
 
 ---
 
-# 2. 🪔 Diwali Sales Analysis
+## 2. Diwali Sales Analysis
 **Goal**: Explore buying behavior during Diwali festival using sales data.  
 **Tech Stack**: Python, Pandas, NumPy, Matplotlib, Seaborn  
 - Performed **EDA** on sales data  
@@ -51,7 +51,7 @@ Here, I turn raw data into meaningful insights and interactive dashboards using 
 
 ---
 
-# 3. 🚖 Maximizing Driver Revenue through Payment Type Analytics
+## 3. Maximizing Driver Revenue through Payment Type Analytics
 **Time Period:** Nov 2024 – Dec 2024
 **Team Size:** 2
 
@@ -62,10 +62,10 @@ Leverage data-driven analytics to optimize taxi driver revenue by evaluating the
 Python (pandas, matplotlib, seaborn, scipy, statsmodels), Large-Scale Data Analysis, Statistical Modeling, Hypothesis Testing
 
 **Key Achievements & Impact:**
-- Processed and analyzed **6.4M+ NYC taxi trip records**, ensuring high data quality by handling missing values, duplicates, and outliers.
+- Processed and analyzed 6.4M+ NYC taxi trip records, ensuring high data quality by handling missing values, duplicates, and outliers.
 - Performed **comprehensive trend and behavioral analysis** of fares, trip distances, passenger counts, and payment preferences, translating complex datasets into actionable insights.
-- Applied **Welch’s t-test** to confirm that **Card payments generate ~12% higher average fares than Cash**, providing statistically robust evidence to support strategic business decisions.
-- **Delivered actionable recommendations that helped drivers maximize revenue and optimize payment strategies by promoting credit card usage, offering incentives, and ensuring seamless, secure transactions.**
+- Applied Welch’s t-test to confirm that Card payments generate ~12% higher average fares than Cash, providing statistically robust evidence to support strategic business decisions.
+- Delivered actionable recommendations that helped drivers maximize revenue and optimize payment strategies by promoting credit card usage, offering incentives, and ensuring seamless, secure transactions.
 
 **GitHub Repository:** [🔗 View Project](https://swatimirashi.github.io/taxipaymentinsights/)    
 
