@@ -52,8 +52,8 @@ Here, I turn raw data into meaningful insights and interactive dashboards using 
 ---
 
 ## 3. Maximizing Driver Revenue through Payment Type Analytics
-**Time Period**: Nov 2024 – Dec 2024
-**Team Size**: 2
+**Time Period:** Nov 2024 – Dec 2024  
+**Team Size:** 2
 
 **Objective:**
 Leverage data-driven analytics to optimize taxi driver revenue by evaluating the effect of payment methods on fare amounts.
