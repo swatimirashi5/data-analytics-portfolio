@@ -65,9 +65,9 @@ Python (pandas, matplotlib, seaborn, scipy, statsmodels), Large-Scale Data Analy
 **Key Achievements & Impact:**
 
 * Processed and analyzed **6.4M+ NYC taxi trip records**, ensuring high data quality by handling missing values, duplicates, and outliers.
-* Conducted comprehensive trend analysis of fares, trip distances, passenger counts, and payment preferences using advanced visualizations.
-* Applied **Welch’s t-test** to confirm that **Card payments generate ~12% higher average fares than Cash**, enabling data-driven recommendations.
-* Delivered actionable insights that help drivers and fleet operators **increase revenue and optimize payment strategies**, demonstrating measurable business impact.
+* Performed **comprehensive trend and behavioral analysis** of fares, trip distances, passenger counts, and payment preferences, translating complex datasets into actionable insights.
+* Applied **Welch’s t-test** to confirm that **Card payments generate ~12% higher average fares than Cash**, providing statistically robust evidence to support strategic business decisions.
+**Delivered actionable recommendations that helped drivers maximize revenue and optimize payment strategies by promoting credit card usage, offering incentives, and ensuring seamless, secure transactions.**
 
 **GitHub Repository:** [🔗 View Project](https://swatimirashi.github.io/taxipaymentinsights/)    
 
