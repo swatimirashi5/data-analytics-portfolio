@@ -66,7 +66,6 @@ Python (pandas, matplotlib, seaborn, scipy, statsmodels), Large-Scale Data Analy
 - Performed **comprehensive trend and behavioral analysis** of fares, trip distances, passenger counts, and payment preferences, translating complex datasets into actionable insights.
 - Applied Welch’s t-test to confirm that Card payments generate ~12% higher average fares than Cash, providing statistically robust evidence to support strategic business decisions.
 - Delivered actionable recommendations that helped drivers maximize revenue and optimize payment strategies by promoting credit card usage, offering incentives, and ensuring seamless, secure transactions.
-
 🔗 [View Project](https://swatimirashi5.github.io/taxipaymentinsights/)    
 
 ---
