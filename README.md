@@ -41,7 +41,7 @@ Here, I turn raw data into meaningful insights and interactive dashboards using 
 
 ---
 
-### 2. 🪔 Diwali Sales Analysis
+# 2. 🪔 Diwali Sales Analysis
 **Goal**: Explore buying behavior during Diwali festival using sales data.  
 **Tech Stack**: Python, Pandas, NumPy, Matplotlib, Seaborn  
 - Performed **EDA** on sales data  
@@ -51,7 +51,7 @@ Here, I turn raw data into meaningful insights and interactive dashboards using 
 
 ---
 
-### **1. Maximizing Driver Revenue through Payment Type Analytics**
+# **3. 🚖 Maximizing Driver Revenue through Payment Type Analytics**
 
 **Time Period:** Jan 2024 – Mar 2024
 **Team Size:** Individual Project
