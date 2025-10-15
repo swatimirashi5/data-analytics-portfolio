@@ -46,7 +46,7 @@ Here, I turn raw data into meaningful insights and interactive dashboards using 
 **Tech Stack**: Python, Pandas, NumPy, Matplotlib, Seaborn  
 - Performed **EDA** on sales data  
 - Created clear visualizations to support **marketing strategies**  
-[🔗 GitHub Repo](https://github.com/swatimirashi/diwali-sales-analysis)
+🔗 [View Project](https://github.com/swatimirashi/diwali-sales-analysis)
 
 
 ---
@@ -67,7 +67,7 @@ Python (pandas, matplotlib, seaborn, scipy, statsmodels), Large-Scale Data Analy
 - Applied Welch’s t-test to confirm that Card payments generate ~12% higher average fares than Cash, providing statistically robust evidence to support strategic business decisions.
 - Delivered actionable recommendations that helped drivers maximize revenue and optimize payment strategies by promoting credit card usage, offering incentives, and ensuring seamless, secure transactions.
 
-**GitHub Repository:** [🔗 View Project](https://swatimirashi.github.io/taxipaymentinsights/)    
+🔗 [View Project](https://swatimirashi5.github.io/taxipaymentinsights/)    
 
 ---
 
