@@ -48,14 +48,28 @@ Here, I turn raw data into meaningful insights and interactive dashboards using 
 - Created clear visualizations to support **marketing strategies**  
 [🔗 GitHub Repo](https://github.com/swatimirashi/diwali-sales-analysis)
 
+
 ---
 
-### 3. 🏦 Bank Loan Analysis Dashboard
-**Goal**: Provide insights on loan risk, customer profiles, and approval trends.  
-**Tech Stack**: Power BI, SQL, DAX  
-- Designed interactive **Power BI dashboard** with DAX calculations  
-- Validated data using SQL queries  
-[🔗 GitHub Repo](https://swatimirashi.github.io/taxipaymentinsights/)
+### **1. Maximizing Driver Revenue through Payment Type Analytics**
+
+**Time Period:** Jan 2024 – Mar 2024
+**Team Size:** Individual Project
+
+**Objective:**
+Leverage data-driven analytics to optimize taxi driver revenue by evaluating the effect of payment methods on fare amounts.
+
+**Tech Stack & Tools:**
+Python (pandas, matplotlib, seaborn, scipy, statsmodels), Large-Scale Data Analysis, Statistical Modeling, Hypothesis Testing
+
+**Key Achievements & Impact:**
+
+* Processed and analyzed **6.4M+ NYC taxi trip records**, ensuring high data quality by handling missing values, duplicates, and outliers.
+* Conducted comprehensive trend analysis of fares, trip distances, passenger counts, and payment preferences using advanced visualizations.
+* Applied **Welch’s t-test** to confirm that **Card payments generate ~12% higher average fares than Cash**, enabling data-driven recommendations.
+* Delivered actionable insights that help drivers and fleet operators **increase revenue and optimize payment strategies**, demonstrating measurable business impact.
+
+**GitHub Repository:** [🔗 View Project](https://swatimirashi.github.io/taxipaymentinsights/)    
 
 ---
 
