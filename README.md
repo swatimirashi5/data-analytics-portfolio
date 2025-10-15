@@ -51,10 +51,9 @@ Here, I turn raw data into meaningful insights and interactive dashboards using 
 
 ---
 
-# **3. 🚖 Maximizing Driver Revenue through Payment Type Analytics**
-
-**Time Period:** Jan 2024 – Mar 2024
-**Team Size:** Individual Project
+# 3. 🚖 Maximizing Driver Revenue through Payment Type Analytics
+**Time Period:** Nov 2024 – Dec 2024
+**Team Size:** 2
 
 **Objective:**
 Leverage data-driven analytics to optimize taxi driver revenue by evaluating the effect of payment methods on fare amounts.
@@ -63,7 +62,6 @@ Leverage data-driven analytics to optimize taxi driver revenue by evaluating the
 Python (pandas, matplotlib, seaborn, scipy, statsmodels), Large-Scale Data Analysis, Statistical Modeling, Hypothesis Testing
 
 **Key Achievements & Impact:**
-
 - Processed and analyzed **6.4M+ NYC taxi trip records**, ensuring high data quality by handling missing values, duplicates, and outliers.
 - Performed **comprehensive trend and behavioral analysis** of fares, trip distances, passenger counts, and payment preferences, translating complex datasets into actionable insights.
 - Applied **Welch’s t-test** to confirm that **Card payments generate ~12% higher average fares than Cash**, providing statistically robust evidence to support strategic business decisions.
