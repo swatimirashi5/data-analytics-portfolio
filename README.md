@@ -59,7 +59,7 @@ This collection shows my ability to turn raw data into actionable insights and i
 - Optimized SQL queries to provide analysis-ready datasets for reporting and insights.  
 - Collaborated with team under manager guidance to design a Power BI dashboard delivering actionable insights for strategic decision-making.  
 
-🔗 **[View Certificate](https://github.com/swatimirashi/pizza-sales-analysis)**
+🔗 **[View Certificate](https://drive.google.com/file/d/17P-sN9OEKR7YGNMvHFv87pMBoqYSF-8n/view?usp=drivesdk)**
 
 ---
 
