@@ -80,7 +80,7 @@ This collection shows my ability to turn raw data into actionable insights and i
 
 ## 📬 Let's Connect!
 
-- 📄 CV: **[View CV](your-cv-link)**
+- 📄 CV: **[View Document](your-cv-link)**
 - 📧 Email: **[swatimirashi298@gmail.com](mailto:swatimirashi298@gmail.com)**  
 - 💼 LinkedIn: **[linkedin.com/in/swatimirashi](https://www.linkedin.com/in/swatimirashi)**  
 - 📂 Portfolio: **[swatimirashi5.github.io/data-analytics-portfolio](https://swatimirashi2.github.io/data-analytics-portfolio/)**  
