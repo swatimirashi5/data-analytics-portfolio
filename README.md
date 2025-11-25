@@ -2,14 +2,14 @@
 
 ### Welcome to my Data Analytics portfolio!
 
-This collection shows my ability to turn raw data into actionable insights and interactive dashboards using **Excel, SQL, Python, and Power BI**. Through both individual and team work, I uncover trends, solve problems, and drive data-informed business decisions.
+This collection shows my ability to turn raw data into actionable insights and interactive dashboards using **SQL, Excel, Python, and Power BI**. Through both individual and team work, I uncover trends, solve problems, and drive data-informed business decisions.
 
 ---
 
 ### 👤 Profile Summary
 
 - Postgraduate in **Industrial Mathematics with Computer Applications** with strong **problem-solving** and **statistical skills**.  
-- **2+ years of experience** in Python, SQL, Power BI, and Excel for data analysis, visualization, and insights generation.  
+- **2+ years of experience** in SQL, Excel, Python, and Power BI for data analysis, visualization, and insights generation.  
 - Completed an **on-campus internship as a Data Analyst**, contributing to individual and team projects that delivered actionable insights.  
 - Passionate about **solving real-world problems** and driving **data-informed business decisions**.  
 
@@ -52,7 +52,7 @@ This collection shows my ability to turn raw data into actionable insights and i
 
 **Data Analyst Intern**  
 **Elendil Private Limited (Remote) | February 2025 – August 2025**  
-**Tools Used:** Excel, SQL, Python, Power BI  
+**Tools Used:** SQL, Excel, Python, Power BI 
 
 - Processed and analyzed **50k+** FMCG sales records (snacks & beverages) using VLOOKUP and Pivot Tables to deliver actionable brand-performance insights.  
 - Consolidated **10+ CSV files** into a lightweight SQLite3 database for faster, organized data access.  
