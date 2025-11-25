@@ -37,7 +37,7 @@ This collection shows my ability to turn raw data into actionable insights and i
 **February 2024 – March 2024 (Group Project, Team Size: 2)**  
 - Processed and analyzed 6.4M+ NYC taxi trip records, handling missing values, duplicates, and unrealistic outliers.  
 - Explored trends in fare amounts, trip distances, passenger counts, and payment preferences using visualizations like histograms, pie charts, and stacked bars.  
-- Applied hypothesis testing (Welch’s t-test) to validate that Card payments generate ~12% higher average fares than Cash. 
+- Applied hypothesis testing (Welch’s t-test) to validate that Card payments generate ~12% higher average fares than Cash.
 🔗 [View Project on GitHub](https://github.com/swatimirashi/pizza-sales-analysis)  
 
 ---
