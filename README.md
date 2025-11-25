@@ -37,7 +37,7 @@ This collection shows my ability to turn raw data into actionable insights and i
 **February 2024 – March 2024 (Group Project, Team Size: 2)**  
 - Processed and analyzed 6.4M+ NYC taxi trip records, handling missing values, duplicates, and unrealistic outliers.  
 - Explored trends in fare amounts, trip distances, passenger counts, and payment preferences using visualizations like histograms, pie charts, and stacked bars.  
-- Applied hypothesis testing (Welch’s t-test) to validate that Card payments generate 12% higher average fares than Cash. 
+- Applied hypothesis testing (Welch’s t-test) to validate that Card payments generate ~12% higher average fares than Cash. 
 🔗 [View Project on GitHub](https://github.com/swatimirashi/pizza-sales-analysis)  
 
 ---
@@ -61,7 +61,7 @@ This collection shows my ability to turn raw data into actionable insights and i
 - **ISO IT Education Centre – Python Certification (6 months) – 2024**: Completed hands-on Python projects and exercises.
 🔗 [View Certificate](https://drive.google.com/file/d/1ZxzpFZTfYqWpP0yPHIqu89CRFspIWpn1/view?usp=drivesdk)
 - **Statistics & Data Visualization Workshop – 2025**: Gained hands-on experience in visualizing and interpreting data using statistical graphs.  
-- **Swiggy Case Study using SQL – 2025**: Analyzed inactive customers, average dish pricing, top restaurants, monthly sales, customer order histories, repeat customers, month-over-month revenue growth, loyal customers, and most-paired products.
+- **Swiggy Case Study using SQL – 2025**: Strengthened SQL JOINs and aggregation skills by analyzing relational datasets to uncover trends, patterns, and actionable business insights.
 🔗 [View Case Study on GitHub](https://github.com/swatimirashi/pizza-sales-analysis)  
 
 ---
