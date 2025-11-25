@@ -33,7 +33,7 @@ This collection shows my ability to turn raw data into actionable insights and i
 - Analyzed vendor and brand performance by evaluating sales contribution, gross profit trends, bulk-purchase impact, and slow-moving inventory patterns.  
 - Delivered strategic recommendations and developed an interactive Power BI dashboard visualizing vendor scorecards, brand performance, inventory movement, and profitability insights.  
 
-🔗 **[View Project on GitHub](https://github.com/swatimirashi5/vendor-performance-analysis)**
+🔗 **[View Project on GitHub](https://github.com/swatimirashi2/vendor-performance-analysis)**
 
 ---
 
@@ -44,7 +44,7 @@ This collection shows my ability to turn raw data into actionable insights and i
 - Explored trends in fare amounts, trip distances, passenger counts, and payment preferences using visualizations like histograms, pie charts, and stacked bars.  
 - Applied hypothesis testing (Welch’s t-test) to validate that Card payments generate ~12% higher average fares than Cash.  
 
-🔗 **[View Project on GitHub](https://github.com/swatimirashi5/maximizing-drivers-revenue)**
+🔗 **[View Project on GitHub](https://github.com/swatimirashi2/maximizing-drivers-revenue)**
 
 ---
 
@@ -80,10 +80,11 @@ This collection shows my ability to turn raw data into actionable insights and i
 
 ## 📬 Let's Connect!
 
+- 📄 CV / Resume: **[View My CV](your-cv-google-drive-link)**
 - 📧 Email: **[swatimirashi298@gmail.com](mailto:swatimirashi298@gmail.com)**  
 - 💼 LinkedIn: **[linkedin.com/in/swatimirashi](https://www.linkedin.com/in/swatimirashi)**  
-- 📂 Portfolio: **[swatimirashi5.github.io/data-analytics-portfolio](https://swatimirashi5.github.io/data-analytics-portfolio/)**  
-- 🐙 GitHub: **[github.com/swatimirashi5](https://github.com/swatimirashi5)**  
+- 📂 Portfolio: **[swatimirashi5.github.io/data-analytics-portfolio](https://swatimirashi2.github.io/data-analytics-portfolio/)**  
+- 🐙 GitHub: **[github.com/swatimirashi5](https://github.com/swatimirashi2)**  
 - 🧩 LeetCode: **[leetcode.com/swatimirashi](https://leetcode.com/swatimirashi)**  
 
 ---
