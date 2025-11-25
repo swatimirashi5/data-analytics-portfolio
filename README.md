@@ -84,7 +84,7 @@ This collection shows my ability to turn raw data into actionable insights and i
 - 📧 Email: **[swatimirashi298@gmail.com](mailto:swatimirashi298@gmail.com)**  
 - 💼 LinkedIn: **[linkedin.com/in/swatimirashi](https://www.linkedin.com/in/swatimirashi)**  
 - 📂 Portfolio: **[swatimirashi5.github.io/data-analytics-portfolio](https://swatimirashi2.github.io/data-analytics-portfolio/)**  
-- 🐙 GitHub: **[github.com/swatimirashi5](https://github.com/swatimirashi2)**  
+- 🐙 GitHub: **[github.com/swatimirashi2](https://github.com/swatimirashi2)**  
 - 🧩 LeetCode: **[leetcode.com/swatimirashi](https://leetcode.com/swatimirashi)**  
 
 ---
