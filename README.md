@@ -1,88 +1,64 @@
 # 👩‍💻 Swati Mirashi - Data Analytics Portfolio
 
-### Welcome to my data analytics portfolio!
+### Welcome to my Data Analytics portfolio!
 
-Here, I turn raw data into meaningful insights and interactive dashboards using Excel, SQL, Python, and Power BI. My portfolio highlights real-world analytical projects that demonstrate my ability to solve problems, uncover trends, and support data-driven decision-making. With a strong academic background and a passion for continuous learning, I bring both technical expertise and business understanding — qualities that help organizations make smarter, insight-based decisions.
+This collection shows my ability to turn raw data into actionable insights and interactive dashboards using **Excel, SQL, Python, and Power BI**. Through both individual and team work, I uncover trends, solve problems, and drive data-informed business decisions.
 
 ---
 
 ### 👤 Profile Summary
 
-- Postgraduate in **Industrial Mathematics with Computer Applications**, with strong **problem-solving** and **statistical skills**.  
-- **2 years of experience in Python, SQL, Power BI, and Excel**, applying these tools for **data analysis, visualization, and supporting data-driven decision-making**.  
-- Completed an **on-campus internship as a Python Developer**, gaining experience in **backend logic, database management, data cleaning, and visualization**.  
-- Proficient in **optimizing SQL queries** and supporting **data-driven decision-making**.  
-- Aiming to leverage **analytical skills** to **solve real-time problems** while continuously **growing in a data-focused profession**.  
+- Postgraduate in **Industrial Mathematics with Computer Applications** with strong **problem-solving** and **statistical skills**.  
+- **2+ years of experience** in Python, SQL, Power BI, and Excel for data analysis, visualization, and insights generation.  
+- Completed an **on-campus internship as a Data Analyst**, contributing to individual and team projects that delivered actionable insights.  
+- Passionate about **solving real-world problems** and driving **data-informed business decisions**.  
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Skills
 
-- **Languages**: Python, SQL  
-- **Tools & Visualization**: Excel, Power BI, Google Sheets, Jupyter Notebook
-- **Databases**: MySQL, BigQuery 
-- **Cloud Platforms**: Google Cloud Platform (GCP)  
-- **Concepts**: Data Cleaning, Exploratory Data Analysis (EDA), Data Modeling, Data Visualization, Business Reporting, Statistical Analysis
+- **Programming & Querying:** SQL, Python  
+- **Tools & Platforms:** Excel, Jupyter Notebook, PostgreSQL, Power BI  
+- **Analytical Abilities:** Data Cleaning, Exploratory Data Analysis (EDA), Insight Generation, Statistical Analysis  
 
 ---
 
 ## 📁 Projects
 
-## 1. Pizza Sales Analysis 
+### 1. Vendor Performance Analysis | Excel, Python, SQLite3, Power BI  
+**August 2025 – September 2025 (Self Project)**  
+- Built an end-to-end analytics pipeline by handling and consolidating 6 raw CSV files containing sales, pricing, inventory, and vendor data.  
+- Cleaned, transformed, and validated datasets using Pandas; performed detailed EDA to understand distributions, detect anomalies, and ensure analysis-ready data.  
+- Analyzed vendor and brand performance by evaluating sales contribution, gross profit trends, bulk-purchase impact, and slow-moving inventory patterns.  
+- Delivered strategic recommendations and developed an interactive Power BI dashboard visualizing vendor scorecards, brand performance, inventory movement, and profitability insights.  
+🔗 [View Project](https://github.com/swatimirashi/pizza-sales-analysis)  
 
-**Goal:** Identify peak hours, pizza demand, top-selling items, average order value, and seating utilization to optimize operations and revenue.
-**Tech Stack:** SQL, Excel, Data Analysis
-- Analyzed **21,000+ orders** to extract actionable business insights  
-- Identified **peak hours and busiest days**, helping optimize staffing and kitchen operations  
-- Recommended **menu improvements and seating management** to increase revenue and efficiency  
-- Applied **SQL optimization techniques** to improve query efficiency, scalable for larger datasets  
-🔗 [View Project](https://github.com/swatimirashi/pizza-sales-analysis)
-
-
----
-
-## 2. Diwali Sales Analysis
-**Goal**: Explore buying behavior during Diwali festival using sales data.  
-**Tech Stack**: Python, Pandas, NumPy, Matplotlib, Seaborn  
-- Performed **EDA** on sales data  
-- Created clear visualizations to support **marketing strategies**  
-🔗 [View Project](https://github.com/swatimirashi/diwali-sales-analysis)
-
-
----
-
-## 3. Maximizing Driver Revenue through Payment Type Analytics
-**Time Period:** Nov 2024 – Dec 2024  
-**Team Size:** 2
-
-**Objective:**
-Leverage data-driven analytics to optimize taxi driver revenue by evaluating the effect of payment methods on fare amounts.
-
-**Tech Stack & Tools:**
-Python (pandas, matplotlib, seaborn, scipy, statsmodels), Large-Scale Data Analysis, Statistical Modeling, Hypothesis Testing
-
-**Key Achievements & Impact:**
-- Processed and analyzed 6.4M+ NYC taxi trip records, ensuring high data quality by handling missing values, duplicates, and outliers.
-- Performed **comprehensive trend and behavioral analysis** of fares, trip distances, passenger counts, and payment preferences, translating complex datasets into actionable insights.
-- Applied Welch’s t-test to confirm that Card payments generate ~12% higher average fares than Cash, providing statistically robust evidence to support strategic business decisions.
-- Delivered actionable recommendations that helped drivers maximize revenue and optimize payment strategies by promoting credit card usage, offering incentives, and ensuring seamless, secure transactions.
-🔗 [View Project](https://swatimirashi5.github.io/taxipaymentinsights/)    
+### 2. Maximizing Revenue For Drivers | Python  
+**February 2024 – March 2024 (Group Project, Team Size: 2)**  
+- Processed and analyzed 6.4M+ NYC taxi trip records, handling missing values, duplicates, and unrealistic outliers.  
+- Explored trends in fare amounts, trip distances, passenger counts, and payment preferences using visualizations like histograms, pie charts, and stacked bars.  
+- Applied hypothesis testing (Welch’s t-test) to validate that Card payments generate 12% higher average fares than Cash.  
 
 ---
 
 ## 💼 Internship Experience
 
-**Python Developer – Elendil Private Limited** *(Feb 2025 – Aug 2025)*  
-- Developed backend logic and optimized SQL queries for database efficiency  
-- Cleaned and validated sales, customer, and operations data in Excel and Python  
-- Built dashboards using Power BI and Python visualization libraries  
+**Data Analyst Intern**  
+**Elendil Private Limited (Remote) | February 2025 – August 2025**  
+**Tools Used:** Excel, SQL, Python, Power BI  
+
+- Processed and analyzed 50k+ FMCG sales records (snacks & beverages) using VLOOKUP and Pivot Tables to deliver actionable brand-performance insights.  
+- Consolidated 10+ CSV files into a lightweight SQLite3 database for faster, organized data access.  
+- Optimized SQL queries to provide analysis-ready datasets for reporting and insights.  
+- Collaborated with team under manager guidance to design a Power BI dashboard delivering actionable insights for strategic decision-making.  
 
 ---
 
-## 🏅 Certifications
+## 🎓 Certifications & Learning Achievements
 
-- **Python Programming** – ISO IT Education Centre  
-- **Introduction to Data Analytics** – Simplilearn  
+- **ISO IT Education Centre – Python Certification (6 months) – 2024**: Completed hands-on Python projects and exercises.  
+- **Statistics & Data Visualization Workshop – 2025**: Gained hands-on experience in visualizing and interpreting data using statistical graphs.  
+- **Swiggy Case Study using SQL – 2025**: Analyzed inactive customers, average dish pricing, top restaurants, monthly sales, customer order histories, repeat customers, month-over-month revenue growth, loyal customers, and most-paired products.  
 
 ---
 
@@ -90,9 +66,9 @@ Python (pandas, matplotlib, seaborn, scipy, statsmodels), Large-Scale Data Analy
 
 - 📧 Email: [swatimirashi298@gmail.com](mailto:swatimirashi298@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/swatimirashi)  
-- 📂 [Portfolio Website](https://www.swatimirashiportfolio.com)  
-- 🐙 [GitHub](https://github.com/swatimirashi)  
-- 🧩 [LeetCode](https://leetcode.com/swatimirashi)
+- 📂 [Portfolio Website](https://swatimirashi5.github.io/data-analytics-portfolio/)  
+- 🐙 [GitHub](https://github.com/swatimirashi5)  
+- 🧩 [LeetCode](https://leetcode.com/swatimirashi)  
 
 ---
 
