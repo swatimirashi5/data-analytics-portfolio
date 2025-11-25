@@ -33,7 +33,7 @@ This collection shows my ability to turn raw data into actionable insights and i
 - Analyzed vendor and brand performance by evaluating sales contribution, gross profit trends, bulk-purchase impact, and slow-moving inventory patterns.  
 - Delivered strategic recommendations and developed an interactive Power BI dashboard visualizing vendor scorecards, brand performance, inventory movement, and profitability insights.  
 
-🔗 **[View Project on GitHub](https://github.com/swatimirashi/pizza-sales-analysis)**
+🔗 **[View Project on GitHub](https://github.com/swatimirashi5/vendor-performance-analysis)**
 
 ---
 
@@ -44,7 +44,7 @@ This collection shows my ability to turn raw data into actionable insights and i
 - Explored trends in fare amounts, trip distances, passenger counts, and payment preferences using visualizations like histograms, pie charts, and stacked bars.  
 - Applied hypothesis testing (Welch’s t-test) to validate that Card payments generate ~12% higher average fares than Cash.  
 
-🔗 **[View Project on GitHub](https://github.com/swatimirashi/pizza-sales-analysis)**
+🔗 **[View Project on GitHub](https://github.com/swatimirashi5/maximizing-drivers-revenue)**
 
 ---
 
