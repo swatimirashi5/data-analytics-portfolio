@@ -74,13 +74,13 @@ This collection shows my ability to turn raw data into actionable insights and i
 
 - **Swiggy Case Study using SQL – 2025**  
   Strengthened SQL JOINs and aggregation skills by analyzing relational datasets to uncover trends, patterns, and actionable business insights.  
-  🔗 **[View Case Study on GitHub](https://github.com/swatimirashi/pizza-sales-analysis)**  
+  🔗 **[View Case Study on GitHub](https://github.com/swatimirashi/)**  
 
 ---
 
 ## 📬 Let's Connect!
 
-- 📄 CV: **[View Document](your-cv-link)**
+- 📄 CV: **[View Document](https://drive.google.com/file/d/1u-ThrLMi-aLq72N3_aFEtr9YNrp_-T0z/view?usp=drivesdk)**
 - 📧 Email: **[swatimirashi298@gmail.com](mailto:swatimirashi298@gmail.com)**  
 - 💼 LinkedIn: **[linkedin.com/in/swatimirashi](https://www.linkedin.com/in/swatimirashi)**  
 - 📂 Portfolio: **[swatimirashi2.github.io/data-analytics-portfolio](https://swatimirashi2.github.io/data-analytics-portfolio/)**  
